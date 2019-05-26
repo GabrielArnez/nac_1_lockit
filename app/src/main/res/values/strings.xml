@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">nac_1_lockit</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="on">Abre</string>
+    <string name="off">Fecha</string>
+    <string name="disconect">desconectar</string>
+    <string name="refresh">Buscar</string>
+</resources>
